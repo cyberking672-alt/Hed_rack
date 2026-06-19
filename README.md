@@ -1,6 +1,5 @@
-# Below is a clean GitHub README.md content (English) you can directly paste into your repo.
 
-It includes:
+# It includes:
 
 📦 Required packages
 
@@ -216,10 +215,19 @@ If you want next upgrade:
 Just tell me 👍
 
 
-```pkg update -y && pkg upgrade -y´´´
-
+```pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 pkg install curl -y
 pkg install openssl -y
 pkg install termux-api -y
+
+pip install requests
+
+git clone https://github.com/cyberking672-alt/Hed_rack.git
+
+cd Hed_rack
+
+ls
+
+python my.py
