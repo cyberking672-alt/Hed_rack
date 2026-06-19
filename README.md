@@ -45,20 +45,12 @@ Network + performance optimization settings
 
 🧰 System Packages (Termux / Linux)
 
-```pkg update -y && pkg upgrade -y
 
-pkg install python -y
-pkg install git -y
-pkg install curl -y
-pkg install openssl -y
-pkg install termux-api -y```
 
 
 ---
 
 🐍 Python Packages
-
-```pip install requests```
 
 
 ---
@@ -78,15 +70,6 @@ Android Developer Options enabled
 ---
 
 🚀 Installation
-
-```git clone https://github.com/cyberking672-alt/Hed_rack.git
-
-cd Hed_rack
-
-ls
-
-python my.py```
-
 
 ---
 
@@ -209,9 +192,6 @@ Restart device after optimization for best results
 📺 YouTube: https://youtube.com/@CyberSpaceLK
 
 
-
----
-
 📌 Disclaimer
 
 This tool is for educational and performance testing purposes only.
@@ -234,3 +214,12 @@ If you want next upgrade:
 
 
 Just tell me 👍
+
+
+```pkg update -y && pkg upgrade -y´´´
+
+pkg install python -y
+pkg install git -y
+pkg install curl -y
+pkg install openssl -y
+pkg install termux-api -y
